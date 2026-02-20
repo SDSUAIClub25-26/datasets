@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Compass', 'Correction pen', 'Eraser', 'Highlighter', 'Pencil', 'Ruler', 'Sharpener', 'Whiteboard marker', 'notebook', 'pen']
+
+roboflow:
+  workspace: aadis-workspace
+  project: school-supplies-su2af-fgw2k
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aadis-workspace/school-supplies-su2af-fgw2k/dataset/2
