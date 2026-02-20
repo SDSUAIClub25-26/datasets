@@ -1,8 +1,8 @@
 
-School supplies - vdataset jpelak
+School supplies - v1 2026-02-20 11:48am
 ==============================
 
-This dataset was exported via roboflow.com on February 20, 2026 at 7:26 PM GMT
+This dataset was exported via roboflow.com on February 20, 2026 at 8:03 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,6 +18,10 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 397 images.
-Objects are annotated in COCO format.
+Objects are annotated in YOLO26 format.
 
-No pre-processing or augmentation was applied.
+The following pre-processing was applied to each image:
+
+No image augmentation techniques were applied.
+
+
